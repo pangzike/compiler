@@ -1,0 +1,25 @@
+program example
+var amy:integer;
+plus,a[10],c,d:real;
+var fun2(num1:integer,num2:real,num3:real):real
+{
+begin
+    num1=num2/num3
+    return num1
+end
+};
+begin
+    if a[8]@1
+    then
+        plus=2*d
+    else
+        a[0]=5*(3.5+c)
+    ifend;
+    while amy <plus
+    do
+        begin
+        c=c*(2+d)+5.7
+    end;
+    fun2(amy,c,plus)
+end.
+#
